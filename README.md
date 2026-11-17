@@ -1,6 +1,6 @@
 # Valvitor — Otomotiv Telemetri ve Akıllı Kokpit
 
-**`Durum: Açık Beta (v1.0) • Tüm Pro Özellikler Aktif`**
+**`Durum: Beta (v1.0) • Tüm Pro Özellikler Aktif`**
 
 Valvitor; gerçek zamanlı OBD-II araç telemetri verilerini, yüksek kontrastlı gece kokpiti deneyimini, organik rota haritalarını ve doğal Türkçe sesli sürüş asistanını tek arayüzde birleştiren yeni nesil Android otomotiv sistemidir.
 
